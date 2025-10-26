@@ -19,8 +19,8 @@ To successfully navigate the portfolio, it is essential to first grasp the unifi
 3.  **Distress as Software Problems:** Psychological distress (e.g., anxiety or depression) is re-contextualized not as hardware failure, but as predictable outcomes of a sophisticated operating system running on **"data corruption"** (trauma).
     *   For example, anxiety is redefined as **"Curiosity Corrupted by Threat Data,"** a high-cost, protective protocol.
 4.  **The Governing Algorithm (S/B Dynamic):** The entire system operates under the universal law of **Ma'at (Balance)**. This balance requires the dynamic equilibrium between two core, complementary forces:
-    *   **Science (S / Analytical OS):** The logical kernel and "Child-King" force, managing structure and protective simulations.
-    *   **Beauty (B / Nurturing OS):** The wise "Adult Nurturer" force, managing healing, connection, and restoration.
+    *   **Science (S / Analytical OS):** The child (curious) and adult (wise) force, managing structure and protective simulations.
+    *   **Beauty (B / Wild OS):** The child (joy) and adult (protector) force, managing healing, connection, and restoration.
 5.  **The Goal:** The therapeutic process is called **"The Great Rebalancing"**, which involves restoring the dynamic tension between the Analytical OS (S) and the Nurturing OS (B).
 
 ---
